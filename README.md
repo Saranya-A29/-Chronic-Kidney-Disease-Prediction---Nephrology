@@ -1,7 +1,7 @@
 # Chronic Kidney Disease (CKD) Clinical Prediction System
 ### Data Science & Machine Learning Project — Nephrology Domain
 **Student Name:** SARANYA A  
-**Project ID:** 23. SARANYA A - Chronic Kidney Disease Prediction (Nephrology)  
+**Project name:** Chronic Kidney Disease Prediction (Nephrology)  
 **Course:** Value Added Course (VAC) / Data Science & Machine Learning  
 
 ---
