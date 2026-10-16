@@ -137,7 +137,6 @@ The web application automatically estimates the patient's **Glomerular Filtratio
 
 ## 👩‍🔬 Student & Project Information
 - **Student Name:** SARANYA A
-- **Topic No:** 23
 - **Topic Title:** Chronic Kidney Disease Prediction
 - **Clinical Domain:** Nephrology
 - **Supervisor / Course:** Data Science & Machine Learning (VAC)
